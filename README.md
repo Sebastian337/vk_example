@@ -5,8 +5,11 @@
 ## 2. Требования к окружению
 
 ОС: Linux, macOS, Windows
+
 Python: версия 3.6 или выше
+
 Доступ к интернету для запросов к API VK
+
 Наличие VK-токена с доступом к методам `utils.getShortLink` и `utils.getLinkStats`
 
 ## 3. Как установить
